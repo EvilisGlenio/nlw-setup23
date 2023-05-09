@@ -1,0 +1,5 @@
+node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node filter=lfs diff=lfs merge=lfs -text
+.next/cache/webpack/client-development/17.pack filter=lfs diff=lfs merge=lfs -text
+.next/cache/webpack/client-development/15.pack filter=lfs diff=lfs merge=lfs -text
+.next/cache/webpack/server-development/4.pack filter=lfs diff=lfs merge=lfs -text
+.next/cache/webpack/server-development/16.pack filter=lfs diff=lfs merge=lfs -text

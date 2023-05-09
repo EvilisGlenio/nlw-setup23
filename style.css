@@ -26,7 +26,7 @@
   button {
     padding: 12px 24px;
     border-radius: 8px;
-    border: 1px solid #8B5CF6;
+    border: font;
     background-color: transparent;
     color: white;
 
@@ -78,7 +78,7 @@
     flex-direction: column;
     gap: 24px;
   }
-  .day div{
+  .days div{
     margin-bottom: 8px;
 
     font-family: 'Roboto Mono';
