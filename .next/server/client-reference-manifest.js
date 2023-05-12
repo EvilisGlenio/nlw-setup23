@@ -742,32 +742,6 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./app/providers.js": {
-      "*": {
-        "id": "(sc_client)/./app/providers.js",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/providers.js",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "Providers": {
-        "id": "(sc_client)/./app/providers.js",
-        "name": "Providers",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./app/page.js": {
       "*": {
         "id": "(sc_client)/./app/page.js",
@@ -793,12 +767,38 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
+    },
+    "(app-client)/./app/providers.js": {
+      "*": {
+        "id": "(sc_client)/./app/providers.js",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/providers.js",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "Providers": {
+        "id": "(sc_client)/./app/providers.js",
+        "name": "Providers",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {},
   "clientModules": {
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -806,7 +806,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -814,7 +814,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -822,7 +822,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -830,7 +830,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -838,7 +838,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -846,7 +846,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -854,7 +854,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -862,7 +862,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -870,7 +870,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -878,7 +878,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -886,7 +886,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -894,7 +894,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -902,7 +902,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -910,7 +910,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#location": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -918,7 +918,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -926,7 +926,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -934,7 +934,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -942,7 +942,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -950,7 +950,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -958,7 +958,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -966,7 +966,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -974,7 +974,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#type": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -982,7 +982,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -990,7 +990,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#cache": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -998,7 +998,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -1006,7 +1006,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#status": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -1014,7 +1014,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -1022,7 +1022,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#data": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -1030,7 +1030,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -1038,7 +1038,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -1046,7 +1046,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -1054,7 +1054,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -1062,7 +1062,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -1070,7 +1070,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -1078,7 +1078,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -1086,7 +1086,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -1094,7 +1094,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -1102,7 +1102,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -1110,7 +1110,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -1118,7 +1118,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#back": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -1126,7 +1126,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -1134,7 +1134,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#forward": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -1142,7 +1142,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -1150,7 +1150,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -1158,7 +1158,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -1166,7 +1166,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#kind": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -1174,7 +1174,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#kind": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -1182,7 +1182,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#replace": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -1190,7 +1190,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -1198,7 +1198,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#push": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -1206,7 +1206,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -1214,7 +1214,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -1222,7 +1222,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -1230,7 +1230,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#origin": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -1238,7 +1238,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -1246,7 +1246,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -1254,7 +1254,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -1262,7 +1262,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#router": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -1270,7 +1270,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -1278,7 +1278,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#(eg": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#(eg": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "(eg",
       "chunks": [
@@ -1286,7 +1286,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#(eg": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#(eg": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "(eg",
       "chunks": [
@@ -1294,7 +1294,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#url": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -1302,7 +1302,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -1310,7 +1310,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#tree": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -1318,7 +1318,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -1326,7 +1326,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -1334,7 +1334,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -1342,7 +1342,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -1350,7 +1350,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -1358,7 +1358,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -1366,7 +1366,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -1374,7 +1374,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -1382,7 +1382,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -1390,7 +1390,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -1398,7 +1398,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -1406,7 +1406,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#sync": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -1414,7 +1414,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -1422,7 +1422,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#value": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -1430,7 +1430,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -1438,7 +1438,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "childNodes",
       "chunks": [
@@ -1446,7 +1446,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "childNodes",
       "chunks": [
@@ -1454,7 +1454,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -1462,7 +1462,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -1470,7 +1470,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -1478,7 +1478,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -1486,7 +1486,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -1494,7 +1494,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -1502,7 +1502,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -1510,7 +1510,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -1518,7 +1518,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -1526,7 +1526,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -1534,7 +1534,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -1542,7 +1542,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -1550,7 +1550,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -1558,7 +1558,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -1566,7 +1566,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -1574,7 +1574,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -1582,7 +1582,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -1590,7 +1590,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -1598,7 +1598,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -1606,7 +1606,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -1614,7 +1614,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -1622,7 +1622,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -1630,7 +1630,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -1638,7 +1638,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -1646,7 +1646,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -1654,7 +1654,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -1662,7 +1662,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -1670,7 +1670,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -1678,7 +1678,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -1686,7 +1686,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -1694,7 +1694,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -1702,7 +1702,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -1710,7 +1710,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -1718,7 +1718,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -1726,7 +1726,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -1734,7 +1734,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -1742,7 +1742,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -1750,7 +1750,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -1758,7 +1758,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -1766,7 +1766,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -1774,7 +1774,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -1782,7 +1782,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -1790,7 +1790,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -1798,7 +1798,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -1806,7 +1806,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -1814,7 +1814,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -1822,7 +1822,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -1830,7 +1830,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -1838,7 +1838,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -1846,7 +1846,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -1854,7 +1854,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -1862,7 +1862,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -1870,7 +1870,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -1878,7 +1878,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -1886,7 +1886,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -1894,7 +1894,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -1902,7 +1902,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -1910,7 +1910,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -1918,7 +1918,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -1926,7 +1926,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -1934,7 +1934,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -1942,7 +1942,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -1950,7 +1950,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -1958,7 +1958,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -1966,7 +1966,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -1974,7 +1974,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -1982,7 +1982,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -1990,7 +1990,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -1998,7 +1998,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirectType": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirectType": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirectType",
       "chunks": [
@@ -2006,7 +2006,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirectType": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirectType": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirectType",
       "chunks": [
@@ -2014,7 +2014,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2022,7 +2022,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2030,7 +2030,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -2038,7 +2038,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -2046,7 +2046,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -2054,7 +2054,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -2062,7 +2062,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -2070,7 +2070,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -2078,7 +2078,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -2086,7 +2086,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -2094,7 +2094,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -2102,7 +2102,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -2110,7 +2110,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -2118,7 +2118,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -2126,7 +2126,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -2134,7 +2134,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -2142,7 +2142,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -2150,7 +2150,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -2158,7 +2158,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -2166,7 +2166,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -2174,7 +2174,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -2182,7 +2182,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -2190,7 +2190,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -2198,7 +2198,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -2206,7 +2206,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -2214,7 +2214,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -2222,7 +2222,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -2230,7 +2230,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -2238,7 +2238,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -2246,7 +2246,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -2254,15 +2254,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -2270,7 +2262,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -2278,7 +2278,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -2286,7 +2286,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -2294,7 +2294,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -2302,7 +2302,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -2310,7 +2310,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -2318,15 +2318,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -2334,7 +2326,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -2342,7 +2342,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -2350,7 +2350,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -2358,7 +2358,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -2366,7 +2366,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -2374,7 +2374,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -2382,7 +2382,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -2390,7 +2390,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -2398,7 +2398,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -2406,7 +2406,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -2414,7 +2414,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -2422,7 +2422,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -2430,7 +2430,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -2438,7 +2438,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -2446,7 +2446,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -2454,7 +2454,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -2462,7 +2462,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -2470,7 +2470,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -2478,7 +2478,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -2486,7 +2486,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -2494,7 +2494,31 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\app\\providers.js": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\app\\page.js": {
+      "id": "(app-client)/./app/page.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\app\\page.js#": {
+      "id": "(app-client)/./app/page.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\app\\page.js#default": {
+      "id": "(app-client)/./app/page.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\app\\providers.js": {
       "id": "(app-client)/./app/providers.js",
       "name": "*",
       "chunks": [
@@ -2502,7 +2526,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\app\\providers.js#": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\app\\providers.js#": {
       "id": "(app-client)/./app/providers.js",
       "name": "",
       "chunks": [
@@ -2510,35 +2534,11 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\app\\providers.js#Providers": {
+    "C:\\Users\\Gilherme\\git\\nlw-setup23\\app\\providers.js#Providers": {
       "id": "(app-client)/./app/providers.js",
       "name": "Providers",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\app\\page.js": {
-      "id": "(app-client)/./app/page.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\app\\page.js#": {
-      "id": "(app-client)/./app/page.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Gilherme\\Pictures\\nlw-SETUP\\app\\page.js#default": {
-      "id": "(app-client)/./app/page.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     }
