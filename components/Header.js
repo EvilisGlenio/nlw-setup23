@@ -1,5 +1,10 @@
 import { Box, Button, Flex, Image } from "@chakra-ui/react"
 
+function handleClick(event) {
+  /*a propriedade event.target representa o elemento do DOM que foi clicado.*/
+  window.alert("Clicado", event.target)
+}
+
 function Header() {
   return (
     <Flex
@@ -17,15 +22,14 @@ function Header() {
         border="1px solid #8B5CF6"
         bgColor="transparent"
         color="white"
-
         display="flex"
         alignItens="center"
         gap="12px"
-
         fontFamily="Inter"
         fontWeight="600"
         fontSize="1rem"
         lineHeight="125%"
+        onClick={handleClick}
       >
         <Image src="/assets/plus.svg" alt="ícone sinal de mais roxo" />
         <Box>Registrar o meu dia</Box>

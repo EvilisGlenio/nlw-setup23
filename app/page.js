@@ -30,6 +30,7 @@ export default function Page() {
         </Flex>
         <Flex gap="48px" marginLeft="32px"></Flex>
       </Flex>
+      <script src="/NLWSetup/source/NLWSetup.js"></script>
     </>
   )
 }
